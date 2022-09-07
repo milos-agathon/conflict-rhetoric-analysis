@@ -1,1 +1,4 @@
-
+process: consultation, process, charter, implementation, dialogue, constructive, consensus, diplomatic, reconciliation, settlement, comprehensive, inclusive, mediation, effort, negotiation, proposal
+action: liberate, fight, punish, urgent, action, assistance, support, aid, sanctions, arrest, stop, intervention
+conflict: conflict, violence, tension, struggle, war, stability, destabilize, security, crisis, escalate, incite, threat, chaos, cycle, fighting, casualties, losses
+crime: indiscriminate, horrific, suffer, repression, humanity, crime, moral, torture, persecution, abuse, oppress, repress, life, incite, tyranny, terrorism, children, women, perpetrator, victims, accountable, massacre, crackdown, targeting, indiscriminate, brutal, barrel, genocide, cleansing, school, hospital
